@@ -4,7 +4,7 @@ GRIP-SPR
 
  
 
-SPR-GRIP: Guided Reflectance and Precision Measurement
+**SPR-GRIP**: **G**uided **R**eflectance and **P**recision **M**easurement
 
  
 
@@ -51,7 +51,7 @@ Through SPR, students can better understand complex biological and physical proc
 
  
 
-Basic explanation:
+**Basic explanation:**
 
  
 
@@ -60,14 +60,14 @@ Surface plasmons are like "dancing" electrons on the surface of a metal. Imagine
 ![image](https://github.com/user-attachments/assets/422ae3c9-50f0-4bfa-844c-cbb8771781b5)
 
 Basic explanation - surface plasmon resonance
-Key things to remember:
+**Key things to remember:**
 
 Plasmons are electron waves. When light hits metal, the electrons on the surface start "swaying," creating waves.
 They are on the surface – Surface plasmons are waves that don't spread throughout the metal but only on its surface, like waves on a pond.
 They interact with light – Plasmons are created when light interacts with these electrons on the metal surface. It's like the light "pushes" the electrons into a dance.
  
 
-But from the beginning:
+**But from the beginning:**
 
  
 
@@ -75,7 +75,7 @@ SPR spectroscopy was developed in the 1970s by researchers at Lund University, i
 
  
 
-SPR spectroscopy principle:
+**SPR spectroscopy principle:**
 
  
 
@@ -87,7 +87,7 @@ When light falls on a metallic surface at the right angle, resonance can occur b
 
  
 
-Genesis of the project:
+**Genesis of the project:**
 
  
 
@@ -101,7 +101,7 @@ This allows for quick and accurate analysis of the results depending on the angl
 ![image](https://github.com/user-attachments/assets/49adfb5c-83f1-4dab-9970-8e38dd91bcdd)
 
 3D CAD model test stand
-The project includes:
+**The project includes:**
 
  
 
@@ -140,7 +140,7 @@ Suppose you are interested in such topics or are looking for partners for resear
 
 The measurement stand was fabricated under the realization of the SONATA BIS 2022/46/E/ST7/00008 project funded by the Polish National Science Centre (NCN)
 
-Sources:
+**Sources:**
 
 [1] K. Scott Phillips and Q. Cheng. "Recent advances in surface plasmon resonance based techniques for bioanalysis." Analytical and Bioanalytical Chemistry, 387 (2007): 1831-1840. https://doi.org/10.1007/S00216-006-1052-7.
 
